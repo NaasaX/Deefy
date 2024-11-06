@@ -1,0 +1,9 @@
+{
+  "name": "src/classes",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "src\\classes\\": "./src/classes"
+    }
+  }
+}

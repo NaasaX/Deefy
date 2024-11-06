@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+}
+
+
+.logout-message {
+    text-align: center;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.logout-message p {
+    font-size: 1.2rem;
+    color: #333;
+    margin: 10px 0;
+}
+
+
+.logout-message a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.logout-message a:hover {
+    text-decoration: underline;
+}
