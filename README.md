@@ -4,7 +4,7 @@ Projet de Besançon Marcelin
 
 Lien WebEtu : https://webetu.iutnc.univ-lorraine.fr/~e2112u/Deefy/
 
-Compte pour les tests :
+Comptes pour les tests :
 
 Login : usertest@mail.com Password : usertest123456789
 
